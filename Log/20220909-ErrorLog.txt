@@ -1,0 +1,2 @@
+10:50:07>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mcould not convert string to float: '-'
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyPI.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m107	| [38;2;250;250;0mFunction:  [38;2;255;255;255mMoveTo

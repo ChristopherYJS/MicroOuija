@@ -1,0 +1,25 @@
+11:59:57>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object has no attribute 'shape'
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m84	| [38;2;250;250;0mFunction:  [38;2;255;255;255mDisplayFrame
+12:34:16>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object has no attribute 'shape'
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m84	| [38;2;250;250;0mFunction:  [38;2;255;255;255mDisplayFrame
+12:35:10>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mTimeout while receiving command (307)
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyPI.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m42	| [38;2;250;250;0mFunction:  [38;2;255;255;255mrun
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pipython\pidevice\common\gcsbasecommands.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m5086	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSPA
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pipython\pidevice\gcsmessages.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m135	| [38;2;250;250;0mFunction:  [38;2;255;255;255msend
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pipython\pidevice\gcsmessages.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m339	| [38;2;250;250;0mFunction:  [38;2;255;255;255m_checkerror
+12:35:12>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mTimeout while receiving command (307)
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyPI.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m73	| [38;2;250;250;0mFunction:  [38;2;255;255;255mServo
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pipython\pidevice\common\gcsbasecommands.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m656	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSVO
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pipython\pidevice\gcsmessages.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m135	| [38;2;250;250;0mFunction:  [38;2;255;255;255msend
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pipython\pidevice\gcsmessages.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m339	| [38;2;250;250;0mFunction:  [38;2;255;255;255m_checkerror
+12:40:32>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mPosition out of limits (7)
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyPI.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m114	| [38;2;250;250;0mFunction:  [38;2;255;255;255mMoveTo
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pipython\pidevice\common\gcsbasecommands.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m3303	| [38;2;250;250;0mFunction:  [38;2;255;255;255mMVR
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pipython\pidevice\gcsmessages.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m135	| [38;2;250;250;0mFunction:  [38;2;255;255;255msend
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pipython\pidevice\gcsmessages.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m339	| [38;2;250;250;0mFunction:  [38;2;255;255;255m_checkerror
+12:52:41>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object has no attribute 'shape'
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m84	| [38;2;250;250;0mFunction:  [38;2;255;255;255mDisplayFrame
+13:06:03>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object has no attribute 'shape'
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m84	| [38;2;250;250;0mFunction:  [38;2;255;255;255mDisplayFrame
+13:22:50>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object has no attribute 'shape'
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m84	| [38;2;250;250;0mFunction:  [38;2;255;255;255mDisplayFrame

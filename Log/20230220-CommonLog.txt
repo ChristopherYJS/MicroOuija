@@ -1,0 +1,12 @@
+13:28:44>>Connecting...
+13:30:27>>"self.mpThread is not None". MicroPositioner might have been connected.
+14:05:06>>Connecting...
+14:05:11>>Connected, resetting error
+14:05:11>>Retriving location
+14:05:11>>Connection finished.
+14:05:40>>axis Z: 10.9694 to 25.0 at 2.0
+
+14:06:20>>axis X: 25.0 to 10.0 at 2.0
+
+14:06:56>>axis Y: 24.3638 to 10.0 at 2.0
+

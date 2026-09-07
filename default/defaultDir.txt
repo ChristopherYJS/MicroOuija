@@ -1,0 +1,4 @@
+.\default\OCR
+.\default\Trigger
+.\default\DisFile
+.\default\MultiMedia

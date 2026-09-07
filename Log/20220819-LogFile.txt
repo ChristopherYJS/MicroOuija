@@ -1,0 +1,658 @@
+12:12:08>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:09>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:09>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:09>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:09>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:09>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:09>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:09>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:09>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:09>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:10>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:10>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:10>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:10>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:10>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:10>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:10>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:10>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:10>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:10>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:11>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:11>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:11>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:11>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:11>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:11>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:11>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:11>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:11>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:12>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:12>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:12>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:12>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:12>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:12>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:12>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:12>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:12>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:13>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:13>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:13>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:13>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:13>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:13>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:13>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:13>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:13>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:14>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:14>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:14>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:14>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:14>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:14>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:14>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:14>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:14>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:15>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:15>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:15>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:15>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:15>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:15>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:15>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:15>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:15>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:16>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:16>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:16>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:16>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:16>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:16>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:16>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:16>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:16>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:17>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:17>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:17>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:17>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:17>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:17>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:17>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:17>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:17>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:18>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:18>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:18>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:18>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:18>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:18>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:18>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:18>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:18>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:19>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:19>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:19>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:19>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:19>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:19>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:19>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:12:19>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mRecordCam() missing 1 required positional argument: 'camnum'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMultiCam.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m59	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSampleFrame
+12:31:20>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mTimeout while receiving command (307)
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyPI.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m42	| [38;2;250;250;0mFunction:  [38;2;255;255;255mrun
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pipython\pidevice\common\gcsbasecommands.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m5086	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSPA
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pipython\pidevice\gcsmessages.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m135	| [38;2;250;250;0mFunction:  [38;2;255;255;255msend
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pipython\pidevice\gcsmessages.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m339	| [38;2;250;250;0mFunction:  [38;2;255;255;255m_checkerror
+12:33:13>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mTimeout while receiving command (307)
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyPI.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m72	| [38;2;250;250;0mFunction:  [38;2;255;255;255mServo
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pipython\pidevice\common\gcsbasecommands.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m656	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSVO
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pipython\pidevice\gcsmessages.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m135	| [38;2;250;250;0mFunction:  [38;2;255;255;255msend
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pipython\pidevice\gcsmessages.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m339	| [38;2;250;250;0mFunction:  [38;2;255;255;255m_checkerror
+12:43:22>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m94	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pytesseract\pytesseract.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m409	| [38;2;250;250;0mFunction:  [38;2;255;255;255mimage_to_string
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pytesseract\pytesseract.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m412	| [38;2;250;250;0mFunction:  [38;2;255;255;255m<lambda>
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pytesseract\pytesseract.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m287	| [38;2;250;250;0mFunction:  [38;2;255;255;255mrun_and_get_output
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pytesseract\pytesseract.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m259	| [38;2;250;250;0mFunction:  [38;2;255;255;255mrun_tesseract
+12:43:33>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m94	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pytesseract\pytesseract.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m409	| [38;2;250;250;0mFunction:  [38;2;255;255;255mimage_to_string
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pytesseract\pytesseract.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m412	| [38;2;250;250;0mFunction:  [38;2;255;255;255m<lambda>
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pytesseract\pytesseract.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m287	| [38;2;250;250;0mFunction:  [38;2;255;255;255mrun_and_get_output
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pytesseract\pytesseract.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m259	| [38;2;250;250;0mFunction:  [38;2;255;255;255mrun_tesseract
+12:43:43>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m94	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pytesseract\pytesseract.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m409	| [38;2;250;250;0mFunction:  [38;2;255;255;255mimage_to_string
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pytesseract\pytesseract.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m412	| [38;2;250;250;0mFunction:  [38;2;255;255;255m<lambda>
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pytesseract\pytesseract.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m287	| [38;2;250;250;0mFunction:  [38;2;255;255;255mrun_and_get_output
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\pytesseract\pytesseract.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m259	| [38;2;250;250;0mFunction:  [38;2;255;255;255mrun_tesseract
+13:19:09>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'OCRMask' object has no attribute 'screenshotCliRect'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m90	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:09>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'OCRMask' object has no attribute 'screenshotCliRect'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m90	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:09>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'OCRMask' object has no attribute 'screenshotCliRect'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m90	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:09>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'OCRMask' object has no attribute 'screenshotCliRect'
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m90	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:10>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:10>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgcodecs\src\loadsave.cpp:721: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRMask.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m123	| [38;2;250;250;0mFunction:  [38;2;255;255;255mmouseReleaseEvent
+13:19:10>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:10>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:10>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:11>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:11>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:11>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:11>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:11>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:11>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:12>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:12>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:12>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:12>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:12>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:12>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:13>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:13>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:13>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:13>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:13>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:13>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:14>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:14>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:14>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:14>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:14>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:14>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:15>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:15>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:15>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:15>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:15>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:15>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:16>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:16>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:16>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:16>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:16>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:16>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:17>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:17>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:17>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:18>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:18>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:18>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:18>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:18>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:19>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:19>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:19>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:19>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:20>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:20>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:20>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:20>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:20>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:20>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:21>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:21>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:21>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:21>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:21>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:21>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:22>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:22>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:22>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:23>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:23>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:23>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:23>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:23>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:23>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:24>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:24>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:24>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:24>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:24>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:24>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:25>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:25>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:25>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:25>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:25>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:25>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:26>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:26>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:26>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:27>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:27>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:27>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:27>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:27>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:27>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:28>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:28>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:28>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:28>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:28>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:28>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:29>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:29>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:29>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:29>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:29>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:29>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:30>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:30>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:30>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:31>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:31>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:31>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+13:19:31>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mtile cannot extend outside image
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRCrop.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m60	| [38;2;250;250;0mFunction:  [38;2;255;255;255mWholeWindowSnap
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2725	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombuffer
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m2671	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\AppData\Local\Programs\Python\Python39\lib\site-packages\PIL\Image.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m796	| [38;2;250;250;0mFunction:  [38;2;255;255;255mfrombytes
+13:19:31>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mOpenCV(4.5.2) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-m8us58q4\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRAnalysis.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m23	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRAnalysis
+13:19:31>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255m'NoneType' object is not iterable
+[38;2;50;250;255mFile:  [38;2;255;255;255mc:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyOCRThread.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m91	| [38;2;250;250;0mFunction:  [38;2;255;255;255mOCRMoniter
+15:24:47>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255minvalid literal for int() with base 10: ''
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMappingWin.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m180	| [38;2;250;250;0mFunction:  [38;2;255;255;255mlist_read
+15:24:47>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mobject of type 'NoneType' has no len()
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMappingWin.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m132	| [38;2;250;250;0mFunction:  [38;2;255;255;255mExpNum
+15:25:55>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mwrapped C/C++ object of type QProgressBar has been deleted
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMappingWin.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m156	| [38;2;250;250;0mFunction:  [38;2;255;255;255mSetProgressBar
+15:25:55>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mwrapped C/C++ object of type QProgressBar has been deleted
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMappingWin.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m162	| [38;2;250;250;0mFunction:  [38;2;255;255;255mLoopComplete
+15:27:46>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mwrapped C/C++ object of type QProgressBar has been deleted
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMappingWin.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m162	| [38;2;250;250;0mFunction:  [38;2;255;255;255mLoopComplete
+15:29:36>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mwrapped C/C++ object of type QProgressBar has been deleted
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMappingWin.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m162	| [38;2;250;250;0mFunction:  [38;2;255;255;255mLoopComplete
+15:31:27>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mwrapped C/C++ object of type QProgressBar has been deleted
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMappingWin.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m162	| [38;2;250;250;0mFunction:  [38;2;255;255;255mLoopComplete
+15:33:15>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mwrapped C/C++ object of type QProgressBar has been deleted
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMappingWin.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m162	| [38;2;250;250;0mFunction:  [38;2;255;255;255mLoopComplete
+15:35:04>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mwrapped C/C++ object of type QProgressBar has been deleted
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMappingWin.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m162	| [38;2;250;250;0mFunction:  [38;2;255;255;255mLoopComplete
+15:36:56>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mwrapped C/C++ object of type QProgressBar has been deleted
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMappingWin.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m162	| [38;2;250;250;0mFunction:  [38;2;255;255;255mLoopComplete
+15:38:49>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mwrapped C/C++ object of type QProgressBar has been deleted
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMappingWin.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m162	| [38;2;250;250;0mFunction:  [38;2;255;255;255mLoopComplete
+15:40:36>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mwrapped C/C++ object of type QProgressBar has been deleted
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMappingWin.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m162	| [38;2;250;250;0mFunction:  [38;2;255;255;255mLoopComplete
+15:42:28>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mwrapped C/C++ object of type QProgressBar has been deleted
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMappingWin.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m162	| [38;2;250;250;0mFunction:  [38;2;255;255;255mLoopComplete
+15:44:15>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mwrapped C/C++ object of type QProgressBar has been deleted
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMappingWin.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m162	| [38;2;250;250;0mFunction:  [38;2;255;255;255mLoopComplete
+15:46:07>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mwrapped C/C++ object of type QProgressBar has been deleted
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMappingWin.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m162	| [38;2;250;250;0mFunction:  [38;2;255;255;255mLoopComplete
+15:47:54>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mwrapped C/C++ object of type QProgressBar has been deleted
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMappingWin.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m162	| [38;2;250;250;0mFunction:  [38;2;255;255;255mLoopComplete
+15:49:46>>[38;2;255;0;0mTraceback Error:  [38;2;255;255;255mwrapped C/C++ object of type QProgressBar has been deleted
+[38;2;50;250;255mFile:  [38;2;255;255;255mC:\Users\jy1u18\OneDrive - University of Southampton\PhD\python\SECM_ToolKit\pyMappingWin.py	| [38;2;255;100;200mLine:  [38;2;255;255;255m108	| [38;2;250;250;0mFunction:  [38;2;255;255;255mExpComplete
