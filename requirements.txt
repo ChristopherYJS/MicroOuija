@@ -1,0 +1,10 @@
+matplotlib==3.11.1
+numpy==2.5.3
+pandas==3.0.5
+Pillow==12.3.0
+pipython==2.13.0.2
+pynput==1.8.2
+PyQt5==5.15.11
+PySide6==6.11.2
+pytesseract==0.3.13
+win32gui==221.6
